@@ -1,0 +1,1 @@
+web java $JAVA_OPTS -jar webapp-runner.jar ${WEBAPP_RUNNER_OPTS} --port $PORT ./target/message-reader-0.1.0.war
